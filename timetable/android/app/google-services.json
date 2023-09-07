@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "465714069970",
+    "project_id": "time-table-maker-dd4b3",
+    "storage_bucket": "time-table-maker-dd4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465714069970:android:83a70c8e3f876c3687c80b",
+        "android_client_info": {
+          "package_name": "com.example.smart_time_table_app_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465714069970-vhnl6lj9g7cpoiu5n22l96im3f8730c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-1jJalfJ1n_9cZYkvaJUicIiZXurnhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465714069970-vhnl6lj9g7cpoiu5n22l96im3f8730c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465714069970-mk6m1njnndg9qmjom9hfhfojoblr1hgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartTimeTableAppFyp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465714069970:android:21320292b4166bf387c80b",
+        "android_client_info": {
+          "package_name": "com.example.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465714069970-vhnl6lj9g7cpoiu5n22l96im3f8730c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-1jJalfJ1n_9cZYkvaJUicIiZXurnhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465714069970-vhnl6lj9g7cpoiu5n22l96im3f8730c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465714069970-mk6m1njnndg9qmjom9hfhfojoblr1hgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartTimeTableAppFyp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

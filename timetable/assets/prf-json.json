@@ -1,0 +1,1004 @@
+{
+  "Zabe Ullah": [
+    {
+      "__EMPTY": "Monday",
+      "12:30": "Zabe Ullah, (B19-B), Operating Systems, NB-228",
+      "01:30": "Zabe Ullah, (B20-B), Object Oriented Programming , C-360",
+      "03:30": "Zabe Ullah, (B21-A), Business Report Writing, A-104"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Zabe Ullah, (B20-B), Object Oriented Programming , C-360",
+      "10:30": "Zabe Ullah, (B21-A), Business Report Writing, C-323",
+      "11:30": "Zabe Ullah, (B19-B), Operating Systems, B-102"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "09:30": "Zabe Ullah, (B19-B), Operating Systems, NB-228",
+      "10:30": "Zabe Ullah, (B21-A), Business Report Writing, A-104",
+      "12:30": "Zabe Ullah, (B20-B), Object Oriented Programming , A-105"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "09:30": "Zabe Ullah, (B21-A), Business Report Writing, C-323",
+      "12:30": "Zabe Ullah, (B20-B), Object Oriented Programming , A-105",
+      "03:30": "Zabe Ullah, (B19-B), Operating Systems, B-102"
+    },
+    {
+      "__EMPTY": "Friday",
+      "03:30": "Zabe Ullah, (B20-B), Object Oriented Programming , A-230"
+    }
+  ],
+  "Ms. Saliha Zahoor": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Ms. Saliha Zahoor, (B21-A), Entrepreneurship, A-226",
+      "10:30": "Ms. Saliha Zahoor, (B21-A), English Language Skills, B-216"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "11:30": "Ms. Saliha Zahoor, (B21-A), Entrepreneurship, C-355",
+      "04:30": "Ms. Saliha Zahoor, (B21-A), English Language Skills, B-102"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Ms. Saliha Zahoor, (B21-A), Entrepreneurship, B-307",
+      "03:30": "Ms. Saliha Zahoor, (B21-A), English Language Skills, B-102"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "01:30": "Ms. Saliha Zahoor, (B21-A), Entrepreneurship, B-307",
+      "03:30": "Ms. Saliha Zahoor, (B21-A), English Language Skills, B-112-A"
+    },
+    {
+      "__EMPTY": "Friday",
+      "08:30": "Ms. Saliha Zahoor, (B21-A), Entrepreneurship, C-386",
+      "11:30": "Ms. Saliha Zahoor, (B21-A), English Language Skills, B-101"
+    }
+  ],
+  "Dr. Abdur Rehman": [
+    {
+      "__EMPTY": "Monday",
+      "12:30": "Dr. Abdur Rehman, (B21-B), Multivariable Calculus, B-102"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "09:30": "Dr. Abdur Rehman, (B21-B), Multivariable Calculus, B-216"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "12:30": "Dr. Abdur Rehman, (B21-B), Multivariable Calculus, B-101"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "09:30": "Dr. Abdur Rehman, (B21-B), Multivariable Calculus, NB-228"
+    },
+    {
+      "__EMPTY": "Friday",
+      "12:30": "Dr. Abdur Rehman, (B21-B), Multivariable Calculus, B-112-A"
+    }
+  ],
+  "Mr. Naveel Dar": [
+    {
+      "__EMPTY": "Monday",
+      "02:30": "Mr. Naveel Dar, (B21-A), Multivariable Calculus, B-207",
+      "04:30": "Mr. Naveel Dar, (B19-B), Quran Translation 400/Ethics, C-323",
+      "05:30": "Mr. Naveel Dar, (B19-A), Computer Organization and Assembly Language Lab, A-362"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "11:30": "Mr. Naveel Dar, (B19-B), Quran Translation 400/Ethics, C-118",
+      "04:30": "Mr. Naveel Dar, (B19-A), Computer Organization and Assembly Language Lab, C-195",
+      "05:30": "Mr. Naveel Dar, (B21-A), Multivariable Calculus, NB-227"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "09:30": "Mr. Naveel Dar, (B19-A), Computer Organization and Assembly Language Lab, C-360",
+      "10:30": "Mr. Naveel Dar, (B21-A), Multivariable Calculus, B-112-A",
+      "03:30": "Mr. Naveel Dar, (B19-B), Quran Translation 400/Ethics, A-362"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "11:30": "Mr. Naveel Dar, (B21-A), Multivariable Calculus, B-207",
+      "04:30": "Mr. Naveel Dar, (B19-B), Quran Translation 400/Ethics, A-362",
+      "05:30": "Mr. Naveel Dar, (B19-A), Computer Organization and Assembly Language Lab, C-360"
+    },
+    {
+      "__EMPTY": "Friday",
+      "12:30": "Mr. Naveel Dar, (B19-B), Quran Translation 400/Ethics, A-104",
+      "01:30": "Mr. Naveel Dar, (B19-A), Computer Organization and Assembly Language Lab, A-362",
+      "03:30": "Mr. Naveel Dar, (B21-A), Multivariable Calculus, B-216"
+    }
+  ],
+  "Zain Iqbal": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Zain Iqbal, (B21-A), Object Oriented Programming Lab, A-230",
+      "12:30": "Zain Iqbal, (B21-B), Entrepreneurship, C-118",
+      "02:30": "Zain Iqbal, (B20-A), Operating Systems Lab,  B-215 Lab"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "12:30": "Zain Iqbal, (B21-A), Object Oriented Programming Lab, A-230",
+      "04:30": "Zain Iqbal, (B20-A), Operating Systems Lab,  B-213 Lab",
+      "05:30": "Zain Iqbal, (B21-B), Entrepreneurship, C-118"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "10:30": "Zain Iqbal, (B21-A), Object Oriented Programming Lab, C-195",
+      "12:30": "Zain Iqbal, (B20-A), Operating Systems Lab,  B-213 Lab",
+      "05:30": "Zain Iqbal, (B21-B), Entrepreneurship, A-104"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "10:30": "Zain Iqbal, (B21-A), Object Oriented Programming Lab, A-105",
+      "04:30": "Zain Iqbal, (B20-A), Operating Systems Lab,  B-215 Lab"
+    },
+    {
+      "__EMPTY": "Friday"
+    }
+  ],
+  "Mr. Khuram Shahzad": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Mr. Khuram Shahzad, (B21-B), Quran Translation 400/Ethics, C-129",
+      "11:30": "Mr. Khuram Shahzad, (B21-A), Numerical Computing, A-346",
+      "04:30": "Mr. Khuram Shahzad, (B20-A), Multivariable Calculus, B-112-A",
+      "05:30": "Mr. Khuram Shahzad, (B19-B), Computer Architecture, C-282"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Mr. Khuram Shahzad, (B19-B), Computer Architecture, C-282",
+      "10:30": "Mr. Khuram Shahzad, (B21-A), Numerical Computing, B-386",
+      "12:30": "Mr. Khuram Shahzad, (B21-B), Quran Translation 400/Ethics, A-139",
+      "01:30": "Mr. Khuram Shahzad, (B20-A), Multivariable Calculus, NB-227"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Mr. Khuram Shahzad, (B20-A), Multivariable Calculus, NB-228",
+      "10:30": "Mr. Khuram Shahzad, (B19-B), Computer Architecture, A-226",
+      "01:30": "Mr. Khuram Shahzad, (B21-A), Numerical Computing, C-190",
+      "03:30": "Mr. Khuram Shahzad, (B21-B), Quran Translation 400/Ethics, B-150"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "09:30": "Mr. Khuram Shahzad, (B21-A), Numerical Computing, C-190",
+      "12:30": "Mr. Khuram Shahzad, (B21-B), Quran Translation 400/Ethics, A-139",
+      "01:30": "Mr. Khuram Shahzad, (B20-A), Multivariable Calculus, B-101"
+    },
+    {
+      "__EMPTY": "Friday",
+      "08:30": "Mr. Khuram Shahzad, (B21-A), Numerical Computing, A-346",
+      "12:30": "Mr. Khuram Shahzad, (B20-A), Multivariable Calculus, B-216",
+      "02:30": "Mr. Khuram Shahzad, (B21-B), Quran Translation 400/Ethics, C-129",
+      "03:30": "Mr. Khuram Shahzad, (B19-B), Computer Architecture, A-226"
+    }
+  ],
+  "Dr. Muhammad Usman Ali": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Dr. Muhammad Usman Ali, (B19-B), Digital Logic Design Lab, NB-227",
+      "12:30": "Dr. Muhammad Usman Ali, (B19-B), Theory of Automata & Formal Languages, B-307"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "10:30": "Dr. Muhammad Usman Ali, (B19-B), Theory of Automata & Formal Languages, C-386",
+      "03:30": "Dr. Muhammad Usman Ali, (B19-B), Digital Logic Design Lab, B-207"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "12:30": "Dr. Muhammad Usman Ali, (B19-B), Theory of Automata & Formal Languages, C-386",
+      "04:30": "Dr. Muhammad Usman Ali, (B19-B), Digital Logic Design Lab, B-101"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "12:30": "Dr. Muhammad Usman Ali, (B19-B), Theory of Automata & Formal Languages, A-151",
+      "04:30": "Dr. Muhammad Usman Ali, (B19-B), Digital Logic Design Lab, B-101"
+    },
+    {
+      "__EMPTY": "Friday",
+      "11:30": "Dr. Muhammad Usman Ali, (B19-B), Digital Logic Design Lab, B-112-A",
+      "12:30": "Dr. Muhammad Usman Ali, (B19-B), Theory of Automata & Formal Languages, B-307"
+    }
+  ],
+  "Mr. Muhammad Jabbar": [
+    {
+      "__EMPTY": "Monday",
+      "11:30": "Mr. Muhammad Jabbar, (B21-B), Text Processing, C-386",
+      "01:30": "Mr. Muhammad Jabbar, (B20-A), Computer Architecture, A-362",
+      "04:30": "Mr. Muhammad Jabbar, (B19-A), Database Systems, B-101",
+      "05:30": "Mr. Muhammad Jabbar, (B20-B), Digital Logic Design , B-207"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "10:30": "Mr. Muhammad Jabbar, (B20-A), Computer Architecture, B-102",
+      "11:30": "Mr. Muhammad Jabbar, (B21-B), Text Processing, B-307",
+      "01:30": "Mr. Muhammad Jabbar, (B19-A), Database Systems, B-102",
+      "05:30": "Mr. Muhammad Jabbar, (B20-B), Digital Logic Design , B-216"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "10:30": "Mr. Muhammad Jabbar, (B19-A), Database Systems, B-207",
+      "11:30": "Mr. Muhammad Jabbar, (B21-B), Text Processing, B-307",
+      "02:30": "Mr. Muhammad Jabbar, (B20-B), Digital Logic Design , B-102",
+      "05:30": "Mr. Muhammad Jabbar, (B20-A), Computer Architecture, C-355"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "11:30": "Mr. Muhammad Jabbar, (B20-A), Computer Architecture, A-362",
+      "12:30": "Mr. Muhammad Jabbar, (B19-A), Database Systems, NB-227",
+      "02:30": "Mr. Muhammad Jabbar, (B21-B), Text Processing, A-226",
+      "04:30": "Mr. Muhammad Jabbar, (B20-B), Digital Logic Design , B-112-A"
+    },
+    {
+      "__EMPTY": "Friday",
+      "08:30": "Mr. Muhammad Jabbar, (B19-A), Database Systems, NB-227",
+      "01:30": "Mr. Muhammad Jabbar, (B20-A), Computer Architecture, A-105",
+      "05:30": "Mr. Muhammad Jabbar, (B20-B), Digital Logic Design , B-112-A"
+    }
+  ],
+  "Ms. Irsa Masood": [
+    {
+      "__EMPTY": "Monday",
+      "10:30": "Ms. Irsa Masood, (B19-B), Object Oriented Programming , B-112-A",
+      "03:30": "Ms. Irsa Masood, (B21-A), Software Engineering, C-190",
+      "04:30": "Ms. Irsa Masood, (B20-B), Database Systems, C-378"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Ms. Irsa Masood, (B21-A), Software Engineering, B-386",
+      "11:30": "Ms. Irsa Masood, (B20-B), Database Systems, C-378",
+      "04:30": "Ms. Irsa Masood, (B19-B), Object Oriented Programming , B-207"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "10:30": "Ms. Irsa Masood, (B21-A), Software Engineering, B-386",
+      "04:30": "Ms. Irsa Masood, (B19-B), Object Oriented Programming , B-207",
+      "05:30": "Ms. Irsa Masood, (B20-B), Database Systems, A-362"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "09:30": "Ms. Irsa Masood, (B21-A), Software Engineering, C-378",
+      "05:30": "Ms. Irsa Masood, (B19-B), Object Oriented Programming , B-101"
+    },
+    {
+      "__EMPTY": "Friday",
+      "09:30": "Ms. Irsa Masood, (B19-B), Object Oriented Programming , NB-227",
+      "12:30": "Ms. Irsa Masood, (B20-B), Database Systems, B-311",
+      "01:30": "Ms. Irsa Masood, (B21-A), Software Engineering, C-190"
+    }
+  ],
+  "Mr. Najeeb Ur Rahman": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Mr. Najeeb Ur Rahman, (B20-B), Object Oriented Programming Lab,  B-213 Lab",
+      "03:30": "Mr. Najeeb Ur Rahman, (B20-B), Business Report Writing, B-307"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "10:30": "Mr. Najeeb Ur Rahman, (B20-B), Business Report Writing, C-355",
+      "12:30": "Mr. Najeeb Ur Rahman, (B20-B), Object Oriented Programming Lab,  B-215 Lab"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Mr. Najeeb Ur Rahman, (B20-B), Object Oriented Programming Lab,  B-215 Lab",
+      "02:30": "Mr. Najeeb Ur Rahman, (B20-B), Business Report Writing, C-355"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Mr. Najeeb Ur Rahman, (B20-B), Business Report Writing, A-151",
+      "04:30": "Mr. Najeeb Ur Rahman, (B20-B), Object Oriented Programming Lab,  B-213 Lab"
+    },
+    {
+      "__EMPTY": "Friday"
+    }
+  ],
+  "Mr. Bilal Ahmad Janjooa": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Mr. Bilal Ahmad Janjooa, (B20-A), Quran Translation 200/Ethics, B-207",
+      "01:30": "Mr. Bilal Ahmad Janjooa, (B21-B), Operating Systems Lab,  B-215 Lab",
+      "03:30": "Mr. Bilal Ahmad Janjooa, (B19-B), Analysis of Algorithms, A-362"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "12:30": "Mr. Bilal Ahmad Janjooa, (B19-B), Analysis of Algorithms, A-105",
+      "04:30": "Mr. Bilal Ahmad Janjooa, (B20-A), Quran Translation 200/Ethics, B-112-A",
+      "05:30": "Mr. Bilal Ahmad Janjooa, (B21-B), Operating Systems Lab,  B-215 Lab"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Mr. Bilal Ahmad Janjooa, (B19-B), Analysis of Algorithms, A-105",
+      "09:30": "Mr. Bilal Ahmad Janjooa, (B21-B), Operating Systems Lab,  B-213 Lab",
+      "04:30": "Mr. Bilal Ahmad Janjooa, (B20-A), Quran Translation 200/Ethics, B-102"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Mr. Bilal Ahmad Janjooa, (B19-B), Analysis of Algorithms, B-102",
+      "09:30": "Mr. Bilal Ahmad Janjooa, (B21-B), Operating Systems Lab,  B-213 Lab",
+      "02:30": "Mr. Bilal Ahmad Janjooa, (B20-A), Quran Translation 200/Ethics, NB-227"
+    },
+    {
+      "__EMPTY": "Friday",
+      "09:30": "Mr. Bilal Ahmad Janjooa, (B19-B), Analysis of Algorithms, A-362",
+      "02:30": "Mr. Bilal Ahmad Janjooa, (B20-A), Quran Translation 200/Ethics, B-207"
+    }
+  ],
+  "Name of Faculty Member": [
+    {
+      "__EMPTY": "Monday",
+      "10:30": "Name of Faculty Member, (B20-A), Funamentals of Accounting, B-102",
+      "11:30": "Name of Faculty Member, (B21-A), Web Systems and Technology, B-386"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "12:30": "Name of Faculty Member, (B21-A), Web Systems and Technology, C-386",
+      "04:30": "Name of Faculty Member, (B20-A), Funamentals of Accounting, B-216"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "02:30": "Name of Faculty Member, (B20-A), Funamentals of Accounting, NB-228",
+      "04:30": "Name of Faculty Member, (B21-A), Web Systems and Technology, A-355"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "03:30": "Name of Faculty Member, (B21-A), Web Systems and Technology, C-386",
+      "04:30": "Name of Faculty Member, (B20-A), Funamentals of Accounting, B-216"
+    },
+    {
+      "__EMPTY": "Friday",
+      "01:30": "Name of Faculty Member, (B21-A), Web Systems and Technology, A-355",
+      "03:30": "Name of Faculty Member, (B20-A), Funamentals of Accounting, B-112-A"
+    }
+  ],
+  "Dr. Zafar Mehmood Khatak": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Dr. Zafar Mehmood Khatak, (B19-A), Pre, Calulus, II (for Pre, Medical), B-112-A"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "01:30": "Dr. Zafar Mehmood Khatak, (B19-A), Pre, Calulus, II (for Pre, Medical), B-207"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "02:30": "Dr. Zafar Mehmood Khatak, (B19-A), Pre, Calulus, II (for Pre, Medical), B-216"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "05:30": "Dr. Zafar Mehmood Khatak, (B19-A), Pre, Calulus, II (for Pre, Medical), NB-228"
+    },
+    {
+      "__EMPTY": "Friday",
+      "10:30": "Dr. Zafar Mehmood Khatak, (B19-A), Pre, Calulus, II (for Pre, Medical), B-216"
+    }
+  ],
+  "Dr. Muhammad Haseeb": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Dr. Muhammad Haseeb, (B19-B), Web Systems and Technology, C-360",
+      "09:30": "Dr. Muhammad Haseeb, (B20-A), Theory of Automata & Formal Languages, A-362",
+      "02:30": "Dr. Muhammad Haseeb, (B21-B), Islamic Studies, B-216"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "09:30": "Dr. Muhammad Haseeb, (B19-B), Web Systems and Technology, A-105",
+      "02:30": "Dr. Muhammad Haseeb, (B21-B), Islamic Studies, B-216",
+      "03:30": "Dr. Muhammad Haseeb, (B20-A), Theory of Automata & Formal Languages, A-362"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Dr. Muhammad Haseeb, (B19-B), Web Systems and Technology, A-362",
+      "11:30": "Dr. Muhammad Haseeb, (B21-B), Islamic Studies, B-112-A",
+      "05:30": "Dr. Muhammad Haseeb, (B20-A), Theory of Automata & Formal Languages, C-323"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Dr. Muhammad Haseeb, (B20-A), Theory of Automata & Formal Languages, C-323",
+      "11:30": "Dr. Muhammad Haseeb, (B21-B), Islamic Studies, B-102",
+      "12:30": "Dr. Muhammad Haseeb, (B19-B), Web Systems and Technology, A-362"
+    },
+    {
+      "__EMPTY": "Friday",
+      "11:30": "Dr. Muhammad Haseeb, (B19-B), Web Systems and Technology, A-105",
+      "04:30": "Dr. Muhammad Haseeb, (B20-A), Theory of Automata & Formal Languages, C-118"
+    }
+  ],
+  "Dr. Naveed Anwar Butt": [
+    {
+      "__EMPTY": "Monday",
+      "01:30": "Dr. Naveed Anwar Butt, (B19-A), Entrepreneurship, A-151",
+      "03:30": "Dr. Naveed Anwar Butt, (B21-B), Design & Analysis of Algorithms , A-205",
+      "05:30": "Dr. Naveed Anwar Butt, (B19-A), Digital Logic Design , B-102"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "09:30": "Dr. Naveed Anwar Butt, (B21-B), Design & Analysis of Algorithms , B-386",
+      "12:30": "Dr. Naveed Anwar Butt, (B19-A), Entrepreneurship, A-151",
+      "03:30": "Dr. Naveed Anwar Butt, (B19-A), Digital Logic Design , B-216"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Dr. Naveed Anwar Butt, (B21-B), Design & Analysis of Algorithms , A-205",
+      "10:30": "Dr. Naveed Anwar Butt, (B19-A), Entrepreneurship, C-386",
+      "02:30": "Dr. Naveed Anwar Butt, (B19-A), Digital Logic Design , B-207"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "01:30": "Dr. Naveed Anwar Butt, (B19-A), Entrepreneurship, A-226",
+      "03:30": "Dr. Naveed Anwar Butt, (B19-A), Digital Logic Design , NB-227"
+    },
+    {
+      "__EMPTY": "Friday",
+      "10:30": "Dr. Naveed Anwar Butt, (B21-B), Design & Analysis of Algorithms , B-386",
+      "03:30": "Dr. Naveed Anwar Butt, (B19-A), Digital Logic Design , B-101"
+    }
+  ],
+  "Amir Hamza": [
+    {
+      "__EMPTY": "Monday",
+      "10:30": "Amir Hamza, (B20-A), Computer Organization and Assembly Language, A-139",
+      "01:30": "Amir Hamza, (B20-B), Service Oriented Architecture (Domain), C-282",
+      "02:30": "Amir Hamza, (B19-A), Linear Algebra, NB-227"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "12:30": "Amir Hamza, (B19-A), Linear Algebra, B-112-A",
+      "01:30": "Amir Hamza, (B20-A), Computer Organization and Assembly Language, C-386",
+      "04:30": "Amir Hamza, (B20-B), Service Oriented Architecture (Domain), B-386"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Amir Hamza, (B20-A), Computer Organization and Assembly Language, B-150",
+      "01:30": "Amir Hamza, (B20-B), Service Oriented Architecture (Domain), C-282",
+      "04:30": "Amir Hamza, (B19-A), Linear Algebra, B-112-A"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "10:30": "Amir Hamza, (B19-A), Linear Algebra, B-216",
+      "05:30": "Amir Hamza, (B20-A), Computer Organization and Assembly Language, C-386"
+    },
+    {
+      "__EMPTY": "Friday",
+      "12:30": "Amir Hamza, (B20-A), Computer Organization and Assembly Language, A-139",
+      "04:30": "Amir Hamza, (B19-A), Linear Algebra, B-207"
+    }
+  ],
+  "Ms. Ayesha Rashid": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Ms. Ayesha Rashid, (B21-A), Mobile Application Development (Elective), C-355",
+      "01:30": "Ms. Ayesha Rashid, (B21-B), Object Oriented Programming , B-101",
+      "03:30": "Ms. Ayesha Rashid, (B20-A), Software Engineering, C-129",
+      "04:30": "Ms. Ayesha Rashid, (B19-B), Modeling and Simulation, C-190"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "12:30": "Ms. Ayesha Rashid, (B21-B), Object Oriented Programming , NB-228",
+      "01:30": "Ms. Ayesha Rashid, (B19-B), Modeling and Simulation, C-118",
+      "04:30": "Ms. Ayesha Rashid, (B20-A), Software Engineering, C-378",
+      "05:30": "Ms. Ayesha Rashid, (B21-A), Mobile Application Development (Elective), C-355"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "09:30": "Ms. Ayesha Rashid, (B21-B), Object Oriented Programming , B-102",
+      "12:30": "Ms. Ayesha Rashid, (B19-B), Modeling and Simulation, C-190",
+      "01:30": "Ms. Ayesha Rashid, (B21-A), Mobile Application Development (Elective), B-102",
+      "05:30": "Ms. Ayesha Rashid, (B20-A), Software Engineering, C-129"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Ms. Ayesha Rashid, (B21-A), Mobile Application Development (Elective), A-362",
+      "09:30": "Ms. Ayesha Rashid, (B19-B), Modeling and Simulation, B-386",
+      "11:30": "Ms. Ayesha Rashid, (B21-B), Object Oriented Programming , NB-228",
+      "12:30": "Ms. Ayesha Rashid, (B20-A), Software Engineering, B-150"
+    },
+    {
+      "__EMPTY": "Friday",
+      "11:30": "Ms. Ayesha Rashid, (B19-B), Modeling and Simulation, C-118",
+      "02:30": "Ms. Ayesha Rashid, (B21-B), Object Oriented Programming , NB-227"
+    }
+  ],
+  "Ms. Nabgha Hasmi": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Ms. Nabgha Hasmi, (B19-A), Analysis of Algorithms, C-282",
+      "10:30": "Ms. Nabgha Hasmi, (B21-A), Funamentals of Accounting, C-129",
+      "01:30": "Ms. Nabgha Hasmi, (B19-B), English Language Skills, B-102",
+      "02:30": "Ms. Nabgha Hasmi, (B20-B), Professional Practices, C-190"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "09:30": "Ms. Nabgha Hasmi, (B19-B), English Language Skills, B-102",
+      "12:30": "Ms. Nabgha Hasmi, (B21-A), Funamentals of Accounting, C-129",
+      "02:30": "Ms. Nabgha Hasmi, (B20-B), Professional Practices, C-190",
+      "04:30": "Ms. Nabgha Hasmi, (B19-A), Analysis of Algorithms, C-118"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Ms. Nabgha Hasmi, (B20-B), Professional Practices, A-346",
+      "12:30": "Ms. Nabgha Hasmi, (B19-B), English Language Skills, NB-227",
+      "03:30": "Ms. Nabgha Hasmi, (B21-A), Funamentals of Accounting, C-378",
+      "05:30": "Ms. Nabgha Hasmi, (B19-A), Analysis of Algorithms, C-282"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "09:30": "Ms. Nabgha Hasmi, (B19-A), Analysis of Algorithms, C-118",
+      "10:30": "Ms. Nabgha Hasmi, (B20-B), Professional Practices, C-118",
+      "04:30": "Ms. Nabgha Hasmi, (B21-A), Funamentals of Accounting, B-150"
+    },
+    {
+      "__EMPTY": "Friday",
+      "03:30": "Ms. Nabgha Hasmi, (B20-B), Professional Practices, A-346",
+      "05:30": "Ms. Nabgha Hasmi, (B19-B), English Language Skills, B-101"
+    }
+  ],
+  "Mr. Zaheer Ahmed": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Mr. Zaheer Ahmed, (B21-A), Digital Logic Design Lab, B-101",
+      "12:30": "Mr. Zaheer Ahmed, (B19-A), Blockchain Security, B-386",
+      "02:30": "Mr. Zaheer Ahmed, (B20-B), Compiler Construction , A-105",
+      "05:30": "Mr. Zaheer Ahmed, (B19-B), Database Systems Lab,  B-215 Lab"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Mr. Zaheer Ahmed, (B19-B), Database Systems Lab,  B-215 Lab",
+      "09:30": "Mr. Zaheer Ahmed, (B21-A), Digital Logic Design Lab, NB-227",
+      "01:30": "Mr. Zaheer Ahmed, (B19-A), Blockchain Security, A-346",
+      "03:30": "Mr. Zaheer Ahmed, (B20-B), Compiler Construction , A-105"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "09:30": "Mr. Zaheer Ahmed, (B19-A), Blockchain Security, B-386",
+      "11:30": "Mr. Zaheer Ahmed, (B21-A), Digital Logic Design Lab, B-102",
+      "03:30": "Mr. Zaheer Ahmed, (B20-B), Compiler Construction , C-355"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "09:30": "Mr. Zaheer Ahmed, (B21-A), Digital Logic Design Lab, B-101",
+      "10:30": "Mr. Zaheer Ahmed, (B20-B), Compiler Construction , C-355",
+      "01:30": "Mr. Zaheer Ahmed, (B19-B), Database Systems Lab,  B-213 Lab"
+    },
+    {
+      "__EMPTY": "Friday",
+      "12:30": "Mr. Zaheer Ahmed, (B21-A), Digital Logic Design Lab, B-207",
+      "04:30": "Mr. Zaheer Ahmed, (B19-A), Blockchain Security, C-190"
+    }
+  ],
+  "Mr. Saqib Rasool": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Mr. Saqib Rasool, (B21-B), Linear Algebra, A-100",
+      "09:30": "Mr. Saqib Rasool, (B21-A), Database Systems Lab, C-378",
+      "11:30": "Mr. Saqib Rasool, (B20-A), Object Oriented Programming Lab,  B-213 Lab"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Mr. Saqib Rasool, (B21-B), Linear Algebra, C-190",
+      "11:30": "Mr. Saqib Rasool, (B21-A), Database Systems Lab, B-311",
+      "03:30": "Mr. Saqib Rasool, (B20-A), Object Oriented Programming Lab,  B-213 Lab"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "12:30": "Mr. Saqib Rasool, (B21-A), Database Systems Lab, C-378",
+      "03:30": "Mr. Saqib Rasool, (B21-B), Linear Algebra, B-386"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Mr. Saqib Rasool, (B21-B), Linear Algebra, A-100",
+      "10:30": "Mr. Saqib Rasool, (B20-A), Object Oriented Programming Lab,  B-215 Lab",
+      "12:30": "Mr. Saqib Rasool, (B21-A), Database Systems Lab, A-346"
+    },
+    {
+      "__EMPTY": "Friday",
+      "11:30": "Mr. Saqib Rasool, (B21-B), Linear Algebra, B-386",
+      "04:30": "Mr. Saqib Rasool, (B20-A), Object Oriented Programming Lab,  B-215 Lab"
+    }
+  ],
+  "Mr. Yasir Zaman": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Mr. Yasir Zaman, (B20-A), Compiler Construction , A-346",
+      "09:30": "Mr. Yasir Zaman, (B19-A), Operating Systems, A-355",
+      "11:30": "Mr. Yasir Zaman, (B19-B), Operating Systems Lab, C-190",
+      "12:30": "Mr. Yasir Zaman, (B21-A), Quran Translation 200/Ethics, B-112-A",
+      "01:30": "Mr. Yasir Zaman, (B19-A), Object Oriented Programming , C-378",
+      "02:30": "Mr. Yasir Zaman, (B20-B), Islamic Studies, B-102",
+      "03:30": "Mr. Yasir Zaman, (B21-B), Professional Practices, A-346",
+      "05:30": "Mr. Yasir Zaman, (B20-B), Mobile Application Development (Elective), C-118"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Mr. Yasir Zaman, (B20-B), Mobile Application Development (Elective), A-346",
+      "09:30": "Mr. Yasir Zaman, (B21-B), Professional Practices, A-346",
+      "10:30": "Mr. Yasir Zaman, (B21-A), Quran Translation 200/Ethics, B-207",
+      "11:30": "Mr. Yasir Zaman, (B19-A), Operating Systems, C-190",
+      "12:30": "Mr. Yasir Zaman, (B20-A), Compiler Construction , A-226",
+      "02:30": "Mr. Yasir Zaman, (B20-B), Islamic Studies, NB-228",
+      "03:30": "Mr. Yasir Zaman, (B19-A), Object Oriented Programming , B-311",
+      "05:30": "Mr. Yasir Zaman, (B19-B), Operating Systems Lab, A-355"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "09:30": "Mr. Yasir Zaman, (B20-B), Islamic Studies, B-112-A",
+      "10:30": "Mr. Yasir Zaman, (B20-A), Compiler Construction , A-346",
+      "12:30": "Mr. Yasir Zaman, (B21-A), Quran Translation 200/Ethics, B-112-A",
+      "01:30": "Mr. Yasir Zaman, (B20-B), Mobile Application Development (Elective), A-346",
+      "02:30": "Mr. Yasir Zaman, (B21-B), Professional Practices, C-190",
+      "03:30": "Mr. Yasir Zaman, (B19-B), Operating Systems Lab, C-190",
+      "04:30": "Mr. Yasir Zaman, (B19-A), Object Oriented Programming , C-378",
+      "05:30": "Mr. Yasir Zaman, (B19-A), Operating Systems, A-100"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "10:30": "Mr. Yasir Zaman, (B20-B), Islamic Studies, NB-228",
+      "11:30": "Mr. Yasir Zaman, (B19-B), Operating Systems Lab, A-100",
+      "12:30": "Mr. Yasir Zaman, (B19-A), Object Oriented Programming , B-311",
+      "02:30": "Mr. Yasir Zaman, (B19-A), Operating Systems, A-355",
+      "03:30": "Mr. Yasir Zaman, (B20-B), Mobile Application Development (Elective), C-118",
+      "04:30": "Mr. Yasir Zaman, (B21-A), Quran Translation 200/Ethics, B-102",
+      "05:30": "Mr. Yasir Zaman, (B21-B), Professional Practices, C-190"
+    },
+    {
+      "__EMPTY": "Friday",
+      "09:30": "Mr. Yasir Zaman, (B19-A), Operating Systems, A-100",
+      "10:30": "Mr. Yasir Zaman, (B20-B), Mobile Application Development (Elective), A-226",
+      "11:30": "Mr. Yasir Zaman, (B19-B), Operating Systems Lab, A-355",
+      "01:30": "Mr. Yasir Zaman, (B21-A), Quran Translation 200/Ethics, B-102",
+      "02:30": "Mr. Yasir Zaman, (B20-A), Compiler Construction , A-226",
+      "03:30": "Mr. Yasir Zaman, (B19-A), Object Oriented Programming , C-355"
+    }
+  ],
+  "Ms. Sadia Firdous": [
+    {
+      "__EMPTY": "Monday",
+      "10:30": "Ms. Sadia Firdous, (B19-B), Database Systems Lab, C-386",
+      "11:30": "Ms. Sadia Firdous, (B21-A), Database Systems Lab,  B-215 Lab",
+      "12:30": "Ms. Sadia Firdous, (B20-A), Data Science (Domain), A-205",
+      "01:30": "Ms. Sadia Firdous, (B19-B), Machine Learning (Domain), A-205",
+      "03:30": "Ms. Sadia Firdous, (B21-B), Software Engineering, B-112-A",
+      "05:30": "Ms. Sadia Firdous, (B19-A), Database Systems, B-386"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "09:30": "Ms. Sadia Firdous, (B19-A), Database Systems, A-139",
+      "10:30": "Ms. Sadia Firdous, (B21-A), Database Systems Lab,  B-213 Lab",
+      "12:30": "Ms. Sadia Firdous, (B19-B), Machine Learning (Domain), A-205",
+      "01:30": "Ms. Sadia Firdous, (B21-B), Software Engineering, B-112-A",
+      "04:30": "Ms. Sadia Firdous, (B19-B), Database Systems Lab, B-150",
+      "05:30": "Ms. Sadia Firdous, (B20-A), Data Science (Domain), B-386"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Ms. Sadia Firdous, (B20-A), Data Science (Domain), C-282",
+      "10:30": "Ms. Sadia Firdous, (B21-B), Software Engineering, NB-228",
+      "12:30": "Ms. Sadia Firdous, (B19-B), Database Systems Lab, B-150",
+      "01:30": "Ms. Sadia Firdous, (B21-A), Database Systems Lab,  B-215 Lab",
+      "04:30": "Ms. Sadia Firdous, (B19-B), Machine Learning (Domain), C-282",
+      "05:30": "Ms. Sadia Firdous, (B19-A), Database Systems, B-150"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Ms. Sadia Firdous, (B19-B), Machine Learning (Domain), B-386",
+      "11:30": "Ms. Sadia Firdous, (B21-A), Database Systems Lab,  B-213 Lab",
+      "02:30": "Ms. Sadia Firdous, (B19-A), Database Systems, B-150",
+      "05:30": "Ms. Sadia Firdous, (B20-A), Data Science (Domain), C-282"
+    },
+    {
+      "__EMPTY": "Friday",
+      "10:30": "Ms. Sadia Firdous, (B21-B), Software Engineering, NB-227",
+      "02:30": "Ms. Sadia Firdous, (B20-A), Data Science (Domain), B-386",
+      "05:30": "Ms. Sadia Firdous, (B19-B), Database Systems Lab, A-139"
+    }
+  ],
+  "Ms. Ayesha Shahid Kiani": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Ms. Ayesha Shahid Kiani, (B19-A), Digital Logic Design Lab, B-207",
+      "02:30": "Ms. Ayesha Shahid Kiani, (B20-A), Information Security, A-346",
+      "05:30": "Ms. Ayesha Shahid Kiani, (B20-B), Database Systems Lab, A-100"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Ms. Ayesha Shahid Kiani, (B19-A), Digital Logic Design Lab, B-112-A",
+      "10:30": "Ms. Ayesha Shahid Kiani, (B20-A), Information Security, C-378",
+      "01:30": "Ms. Ayesha Shahid Kiani, (B20-B), Database Systems Lab, A-100"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Ms. Ayesha Shahid Kiani, (B20-B), Database Systems Lab, C-190",
+      "10:30": "Ms. Ayesha Shahid Kiani, (B19-A), Digital Logic Design Lab, NB-227",
+      "05:30": "Ms. Ayesha Shahid Kiani, (B20-A), Information Security, B-311"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "12:30": "Ms. Ayesha Shahid Kiani, (B19-A), Digital Logic Design Lab, B-102",
+      "02:30": "Ms. Ayesha Shahid Kiani, (B20-A), Information Security, A-346",
+      "04:30": "Ms. Ayesha Shahid Kiani, (B20-B), Database Systems Lab, A-355"
+    },
+    {
+      "__EMPTY": "Friday",
+      "10:30": "Ms. Ayesha Shahid Kiani, (B20-B), Database Systems Lab, C-378",
+      "03:30": "Ms. Ayesha Shahid Kiani, (B19-A), Digital Logic Design Lab, B-207"
+    }
+  ],
+  "Ms. Maida Bugvi": [
+    {
+      "__EMPTY": "Monday",
+      "11:30": "Ms. Maida Bugvi, (B21-B), Digital Logic Design , NB-227",
+      "01:30": "Ms. Maida Bugvi, (B20-A), Database Systems, A-100",
+      "02:30": "Ms. Maida Bugvi, (B19-B), Object Oriented Programming Lab, A-362"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "09:30": "Ms. Maida Bugvi, (B19-B), Object Oriented Programming Lab, A-362",
+      "10:30": "Ms. Maida Bugvi, (B20-A), Database Systems, C-190",
+      "03:30": "Ms. Maida Bugvi, (B21-B), Digital Logic Design , B-112-A"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Ms. Maida Bugvi, (B20-A), Database Systems, C-378",
+      "11:30": "Ms. Maida Bugvi, (B19-B), Object Oriented Programming Lab, A-346",
+      "05:30": "Ms. Maida Bugvi, (B21-B), Digital Logic Design , B-216"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "12:30": "Ms. Maida Bugvi, (B20-A), Database Systems, A-100",
+      "01:30": "Ms. Maida Bugvi, (B21-B), Digital Logic Design , B-207",
+      "05:30": "Ms. Maida Bugvi, (B19-B), Object Oriented Programming Lab, A-346"
+    },
+    {
+      "__EMPTY": "Friday",
+      "08:30": "Ms. Maida Bugvi, (B21-B), Digital Logic Design , B-101",
+      "11:30": "Ms. Maida Bugvi, (B19-B), Object Oriented Programming Lab, C-378",
+      "12:30": "Ms. Maida Bugvi, (B20-A), Database Systems, A-355"
+    }
+  ],
+  "Mr. Soahil Ahmad": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Mr. Soahil Ahmad, (B19-B), Multivariable Calculus (For Pre, Medical), NB-227",
+      "12:30": "Mr. Soahil Ahmad, (B21-A), Theory of Automata & Formal Languages, C-282",
+      "03:30": "Mr. Soahil Ahmad, (B20-B), Computer Organization and Assembly Language Lab, A-139"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "10:30": "Mr. Soahil Ahmad, (B21-A), Theory of Automata & Formal Languages, C-282",
+      "12:30": "Mr. Soahil Ahmad, (B19-B), Multivariable Calculus (For Pre, Medical), B-102",
+      "01:30": "Mr. Soahil Ahmad, (B20-B), Computer Organization and Assembly Language Lab, A-355"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Mr. Soahil Ahmad, (B20-B), Computer Organization and Assembly Language Lab, A-139",
+      "02:30": "Mr. Soahil Ahmad, (B19-B), Multivariable Calculus (For Pre, Medical), B-101",
+      "05:30": "Mr. Soahil Ahmad, (B21-A), Theory of Automata & Formal Languages, A-205"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Mr. Soahil Ahmad, (B20-B), Computer Organization and Assembly Language Lab, C-386",
+      "10:30": "Mr. Soahil Ahmad, (B19-B), Multivariable Calculus (For Pre, Medical), NB-227"
+    },
+    {
+      "__EMPTY": "Friday",
+      "01:30": "Mr. Soahil Ahmad, (B21-A), Theory of Automata & Formal Languages, A-205",
+      "05:30": "Mr. Soahil Ahmad, (B20-B), Computer Organization and Assembly Language Lab, B-386"
+    }
+  ],
+  "Amna Tasaduq": [
+    {
+      "__EMPTY": "Monday",
+      "12:30": "Amna Tasaduq, (B19-A), Quran Translation 200/Ethics, B-207",
+      "02:30": "Amna Tasaduq, (B20-A), Quran Translation 200/Ethics, C-360",
+      "05:30": "Amna Tasaduq, (B20-B), Design & Analysis of Algorithms , C-323"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Amna Tasaduq, (B20-B), Design & Analysis of Algorithms , C-323",
+      "10:30": "Amna Tasaduq, (B19-A), Quran Translation 200/Ethics, B-112-A",
+      "04:30": "Amna Tasaduq, (B20-A), Quran Translation 200/Ethics, A-105"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "08:30": "Amna Tasaduq, (B20-B), Design & Analysis of Algorithms , A-104",
+      "10:30": "Amna Tasaduq, (B20-A), Quran Translation 200/Ethics, A-362",
+      "02:30": "Amna Tasaduq, (B19-A), Quran Translation 200/Ethics, NB-227"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Amna Tasaduq, (B20-A), Quran Translation 200/Ethics, C-360",
+      "02:30": "Amna Tasaduq, (B19-A), Quran Translation 200/Ethics, NB-228",
+      "03:30": "Amna Tasaduq, (B20-B), Design & Analysis of Algorithms , A-362"
+    },
+    {
+      "__EMPTY": "Friday",
+      "08:30": "Amna Tasaduq, (B20-A), Quran Translation 200/Ethics, A-105",
+      "09:30": "Amna Tasaduq, (B19-A), Quran Translation 200/Ethics, B-207",
+      "12:30": "Amna Tasaduq, (B20-B), Design & Analysis of Algorithms , A-362"
+    }
+  ],
+  "Mr. Toqeer Ehsan": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Mr. Toqeer Ehsan, (B19-A), Human Computer Interaction, B-102",
+      "09:30": "Mr. Toqeer Ehsan, (B21-A), Operating Systems, B-102",
+      "11:30": "Mr. Toqeer Ehsan, (B19-B), Islamic Studies, B-101"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Mr. Toqeer Ehsan, (B19-B), Islamic Studies, NB-227",
+      "10:30": "Mr. Toqeer Ehsan, (B21-A), Operating Systems, B-216",
+      "02:30": "Mr. Toqeer Ehsan, (B19-A), Human Computer Interaction, C-355"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "11:30": "Mr. Toqeer Ehsan, (B19-B), Islamic Studies, B-207",
+      "01:30": "Mr. Toqeer Ehsan, (B19-A), Human Computer Interaction, C-355",
+      "03:30": "Mr. Toqeer Ehsan, (B21-A), Operating Systems, B-216"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "11:30": "Mr. Toqeer Ehsan, (B21-A), Operating Systems, B-101",
+      "12:30": "Mr. Toqeer Ehsan, (B19-B), Islamic Studies, B-207",
+      "05:30": "Mr. Toqeer Ehsan, (B19-A), Human Computer Interaction, B-102"
+    },
+    {
+      "__EMPTY": "Friday",
+      "01:30": "Mr. Toqeer Ehsan, (B21-A), Operating Systems, B-112-A",
+      "02:30": "Mr. Toqeer Ehsan, (B19-A), Human Computer Interaction, A-105",
+      "04:30": "Mr. Toqeer Ehsan, (B19-B), Islamic Studies, NB-227"
+    }
+  ],
+  "Hafiz Muhammad Shahbaz": [
+    {
+      "__EMPTY": "Monday",
+      "09:30": "Hafiz Muhammad Shahbaz, (B19-A), Mobile Application Development (Elective), A-205",
+      "04:30": "Hafiz Muhammad Shahbaz, (B21-B), Information Security, A-362",
+      "05:30": "Hafiz Muhammad Shahbaz, (B20-B), Database Systems, B-216"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "09:30": "Hafiz Muhammad Shahbaz, (B20-B), Database Systems, B-207",
+      "11:30": "Hafiz Muhammad Shahbaz, (B19-A), Mobile Application Development (Elective), B-386",
+      "12:30": "Hafiz Muhammad Shahbaz, (B21-B), Information Security, A-362"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "10:30": "Hafiz Muhammad Shahbaz, (B21-B), Information Security, A-105",
+      "01:30": "Hafiz Muhammad Shahbaz, (B20-B), Database Systems, B-101",
+      "04:30": "Hafiz Muhammad Shahbaz, (B19-A), Mobile Application Development (Elective), B-386"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "11:30": "Hafiz Muhammad Shahbaz, (B19-A), Mobile Application Development (Elective), A-205",
+      "01:30": "Hafiz Muhammad Shahbaz, (B20-B), Database Systems, B-102",
+      "03:30": "Hafiz Muhammad Shahbaz, (B21-B), Information Security, A-105"
+    },
+    {
+      "__EMPTY": "Friday",
+      "09:30": "Hafiz Muhammad Shahbaz, (B20-B), Database Systems, B-102",
+      "12:30": "Hafiz Muhammad Shahbaz, (B19-A), Mobile Application Development (Elective), C-282"
+    }
+  ],
+  "Mr. Mubbashar Hussain": [
+    {
+      "__EMPTY": "Monday",
+      "10:30": "Mr. Mubbashar Hussain, (B20-B), Quran Translation 400/Ethics, B-207",
+      "05:30": "Mr. Mubbashar Hussain, (B21-B), Quran Translation 200/Ethics, A-355"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "11:30": "Mr. Mubbashar Hussain, (B20-B), Quran Translation 400/Ethics, B-216",
+      "02:30": "Mr. Mubbashar Hussain, (B21-B), Quran Translation 200/Ethics, B-150"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "11:30": "Mr. Mubbashar Hussain, (B21-B), Quran Translation 200/Ethics, B-150",
+      "02:30": "Mr. Mubbashar Hussain, (B20-B), Quran Translation 400/Ethics, B-112-A"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Mr. Mubbashar Hussain, (B20-B), Quran Translation 400/Ethics, NB-228",
+      "04:30": "Mr. Mubbashar Hussain, (B21-B), Quran Translation 200/Ethics, C-386"
+    },
+    {
+      "__EMPTY": "Friday",
+      "10:30": "Mr. Mubbashar Hussain, (B21-B), Quran Translation 200/Ethics, A-139",
+      "05:30": "Mr. Mubbashar Hussain, (B20-B), Quran Translation 400/Ethics, NB-227"
+    }
+  ],
+  "Syed Muhammad Shoiab Arif": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Syed Muhammad Shoiab Arif, (B19-A), Funamentals of Accounting, A-362",
+      "01:30": "Syed Muhammad Shoiab Arif, (B21-B), Computer Organization and Assembly Language, C-355",
+      "02:30": "Syed Muhammad Shoiab Arif, (B20-B), English Language Skills, NB-228"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "10:30": "Syed Muhammad Shoiab Arif, (B19-A), Funamentals of Accounting, A-104",
+      "12:30": "Syed Muhammad Shoiab Arif, (B20-B), English Language Skills, B-216",
+      "02:30": "Syed Muhammad Shoiab Arif, (B21-B), Computer Organization and Assembly Language, A-346"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "01:30": "Syed Muhammad Shoiab Arif, (B20-B), English Language Skills, B-207",
+      "03:30": "Syed Muhammad Shoiab Arif, (B21-B), Computer Organization and Assembly Language, A-346",
+      "04:30": "Syed Muhammad Shoiab Arif, (B19-A), Funamentals of Accounting, C-118"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "09:30": "Syed Muhammad Shoiab Arif, (B20-B), English Language Skills, NB-227",
+      "11:30": "Syed Muhammad Shoiab Arif, (B21-B), Computer Organization and Assembly Language, B-311",
+      "03:30": "Syed Muhammad Shoiab Arif, (B19-A), Funamentals of Accounting, C-323"
+    },
+    {
+      "__EMPTY": "Friday",
+      "08:30": "Syed Muhammad Shoiab Arif, (B20-B), English Language Skills, B-112-A",
+      "02:30": "Syed Muhammad Shoiab Arif, (B19-A), Funamentals of Accounting, C-323",
+      "05:30": "Syed Muhammad Shoiab Arif, (B21-B), Computer Organization and Assembly Language, B-311"
+    }
+  ],
+  "Ms. Ammara Javed": [
+    {
+      "__EMPTY": "Monday",
+      "08:30": "Ms. Ammara Javed, (B21-B), Human Computer Interaction, C-355",
+      "12:30": "Ms. Ammara Javed, (B19-A), Object Oriented Programming Lab,  B-215 Lab",
+      "01:30": "Ms. Ammara Javed, (B20-A), Numerical Computing, A-346",
+      "05:30": "Ms. Ammara Javed, (B20-B), Linear Algebra, B-150"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Ms. Ammara Javed, (B21-B), Human Computer Interaction, A-105",
+      "09:30": "Ms. Ammara Javed, (B20-A), Numerical Computing, C-118",
+      "11:30": "Ms. Ammara Javed, (B19-A), Object Oriented Programming Lab,  B-213 Lab",
+      "04:30": "Ms. Ammara Javed, (B20-B), Linear Algebra, C-129"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "02:30": "Ms. Ammara Javed, (B21-B), Human Computer Interaction, A-105",
+      "03:30": "Ms. Ammara Javed, (B20-A), Numerical Computing, C-118",
+      "04:30": "Ms. Ammara Javed, (B20-B), Linear Algebra, A-139",
+      "05:30": "Ms. Ammara Javed, (B19-A), Object Oriented Programming Lab,  B-213 Lab"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "08:30": "Ms. Ammara Javed, (B19-A), Object Oriented Programming Lab,  B-215 Lab",
+      "09:30": "Ms. Ammara Javed, (B20-B), Linear Algebra, C-129",
+      "04:30": "Ms. Ammara Javed, (B20-A), Numerical Computing, C-190"
+    },
+    {
+      "__EMPTY": "Friday",
+      "08:30": "Ms. Ammara Javed, (B21-B), Human Computer Interaction, C-355",
+      "12:30": "Ms. Ammara Javed, (B20-A), Numerical Computing, B-386",
+      "02:30": "Ms. Ammara Javed, (B20-B), Linear Algebra, C-378"
+    }
+  ],
+  "Dr. Umar Shoaib": [
+    {
+      "__EMPTY": "Monday",
+      "01:30": "Dr. Umar Shoaib, (B20-A), Design & Analysis of Algorithms , C-386",
+      "02:30": "Dr. Umar Shoaib, (B20-A), Object Oriented Programming, B-112-A"
+    },
+    {
+      "__EMPTY": "Tuesday",
+      "08:30": "Dr. Umar Shoaib, (B20-A), Object Oriented Programming, B-102",
+      "02:30": "Dr. Umar Shoaib, (B20-A), Design & Analysis of Algorithms , A-226"
+    },
+    {
+      "__EMPTY": "Wednesday",
+      "09:30": "Dr. Umar Shoaib, (B20-A), Design & Analysis of Algorithms , A-226",
+      "11:30": "Dr. Umar Shoaib, (B20-A), Object Oriented Programming, B-101"
+    },
+    {
+      "__EMPTY": "Thursday",
+      "12:30": "Dr. Umar Shoaib, (B20-A), Design & Analysis of Algorithms , C-386",
+      "04:30": "Dr. Umar Shoaib, (B20-A), Object Oriented Programming, B-207"
+    },
+    {
+      "__EMPTY": "Friday",
+      "09:30": "Dr. Umar Shoaib, (B20-A), Object Oriented Programming, B-216",
+      "12:30": "Dr. Umar Shoaib, (B20-A), Design & Analysis of Algorithms , C-355"
+    }
+  ]
+}
